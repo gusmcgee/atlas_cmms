@@ -76,8 +76,10 @@ public class LicenseService {
     }
 
     public boolean hasEntitlement(LicenseEntitlement entitlement) {
-        LicensingState state = getLicensingState();
-        return state.isValid() && state.getEntitlements().contains(entitlement.toString());
+// CHANGE Has entitlement for all licensed things
+        return true;
+//        LicensingState state = getLicensingState();
+//        return state.isValid() && state.getEntitlements().contains(entitlement.toString());
     }
 
     private boolean isCacheValid() {

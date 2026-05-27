@@ -1,0 +1,97 @@
+Asset,Parent Asset,Manufacturer,Model,Description,Asset Type,Serial Number,Barcode,Location,Responsible Teams
+1A CRAH 1,,,AHU-M-I-2-D-FG-N-NN-4-CC-SF-004-035-FI-EP,Test description.,CRAH,,,DATA HALL 1A,Maintenance|Management
+1A CRAH 2,,,AHU-M-I-2-D-FG-N-NN-4-CC-SF-004-035-FI-EP,Test description.,CRAH,,,DATA HALL 1A,Maintenance|Management
+1A CRAH 3,,,AHU-M-I-2-D-FG-N-NN-4-CC-SF-004-035-FI-EP,Test description.,CRAH,,,DATA HALL 1A,Maintenance|Management
+1A CRAH 4,,,AHU-M-I-2-D-FG-N-NN-4-CC-SF-004-035-FI-EP,Test description.,CRAH,,,DATA HALL 1A,Maintenance|Management
+1A CRAH 5,,,AHU-M-I-2-D-FG-N-NN-4-CC-SF-004-035-FI-EP,Test description.,CRAH,,,DATA HALL 1A,Maintenance|Management
+1A CRAH 6,,,AHU-M-I-2-D-FG-N-NN-4-CC-SF-004-035-FI-EP,Test description.,CRAH,,,DATA HALL 1A,Maintenance|Management
+1A CRAH 7,,,AHU-M-I-2-D-FG-N-NN-4-CC-SF-004-035-FI-EP,Test description.,CRAH,,,DATA HALL 1A,Maintenance|Management
+1A CRAH 8,,,AHU-M-I-2-D-FG-N-NN-4-CC-SF-004-035-FI-EP,Test description.,CRAH,,,DATA HALL 1A,Maintenance|Management
+1A CRAH 9,,,AHU-M-I-2-D-FG-N-NN-4-CC-SF-004-035-FI-EP,Test description.,CRAH,,,DATA HALL 1A,Maintenance|Management
+1A CRAH 10,,,AHU-M-I-2-D-FG-N-NN-4-CC-SF-004-035-FI-EP,Test description.,CRAH,,,DATA HALL 1A,Maintenance|Management
+2A CRAH 1,,,AHU-M-I-2-D-FG-N-NN-4-CC-SF-004-035-FI-EP,Test description.,CRAH,,,DATA HALL 2A,Maintenance|Management
+2A CRAH 2,,,AHU-M-I-2-D-FG-N-NN-4-CC-SF-004-035-FI-EP,Test description.,CRAH,,,DATA HALL 2A,Maintenance|Management
+2A CRAH 3,,,AHU-M-I-2-D-FG-N-NN-4-CC-SF-004-035-FI-EP,Test description.,CRAH,,,DATA HALL 2A,Maintenance|Management
+2A CRAH 4,,,AHU-M-I-2-D-FG-N-NN-4-CC-SF-004-035-FI-EP,Test description.,CRAH,,,DATA HALL 2A,Maintenance|Management
+2A CRAH 5,,,AHU-M-I-2-D-FG-N-NN-4-CC-SF-004-035-FI-EP,Test description.,CRAH,,,DATA HALL 2A,Maintenance|Management
+2A CRAH 6,,,AHU-M-I-2-D-FG-N-NN-4-CC-SF-004-035-FI-EP,Test description.,CRAH,,,DATA HALL 2A,Maintenance|Management
+2A CRAH 7,,,AHU-M-I-2-D-FG-N-NN-4-CC-SF-004-035-FI-EP,Test description.,CRAH,,,DATA HALL 2A,Maintenance|Management
+2A CRAH 8,,,AHU-M-I-2-D-FG-N-NN-4-CC-SF-004-035-FI-EP,Test description.,CRAH,,,DATA HALL 2A,Maintenance|Management
+2A CRAH 9,,,AHU-M-I-2-D-FG-N-NN-4-CC-SF-004-035-FI-EP,Test description.,CRAH,,,DATA HALL 2A,Maintenance|Management
+2A CRAH 10,,,AHU-M-I-2-D-FG-N-NN-4-CC-SF-004-035-FI-EP,Test description.,CRAH,,,DATA HALL 2A,Maintenance|Management
+UPS-1F-1,,,52SA11MADCAATE8,Test description.,UPS,,,ELECTRICAL ROOM 1C,Maintenance|Management
+UPS-1F-2,,,52SA11MADCAATE8,Test description.,UPS,,,ELECTRICAL ROOM 1C,Maintenance|Management
+UPS-1F-3,,,52SA11MADCAATE8,Test description.,UPS,,,ELECTRICAL ROOM 1C,Maintenance|Management
+UPS-1E-1,,,52SA11MADCAATE8,Test description.,UPS,,,ELECTRICAL ROOM 1C,Maintenance|Management
+UPS-1E-2,,,52SA11MADCAATE8,Test description.,UPS,,,ELECTRICAL ROOM 1C,Maintenance|Management
+UPS-1E-3,,,52SA11MADCAATE8,Test description.,UPS,,,ELECTRICAL ROOM 1C,Maintenance|Management
+UPS-3C-1,,,52SA11MADCAATE8,Test description.,UPS,,,ELECTRICAL ROOM 1C,Maintenance|Management
+UPS-1H-1,,,52SA11MADCAATE8,Test description.,UPS,,,ELECTRICAL ROOM 1D,Maintenance|Management
+UPS-1H-2,,,52SA11MADCAATE8,Test description.,UPS,,,ELECTRICAL ROOM 1D,Maintenance|Management
+UPS-1H-3,,,52SA11MADCAATE8,Test description.,UPS,,,ELECTRICAL ROOM 1D,Maintenance|Management
+UPS-1G-1,,,52SA11MADCAATE8,Test description.,UPS,,,ELECTRICAL ROOM 1D,Maintenance|Management
+UPS-1G-2,,,52SA11MADCAATE8,Test description.,UPS,,,ELECTRICAL ROOM 1D,Maintenance|Management
+UPS-1G-3,,,52SA11MADCAATE8,Test description.,UPS,,,ELECTRICAL ROOM 1D,Maintenance|Management
+UPS-3D-1,,,52SA11MADCAATE8,Test description.,UPS,,,ELECTRICAL ROOM 1D,Maintenance|Management
+PDU-1F-3-2,,,SG3A0600KH,Test description.,PDU,,,ELECTRICAL ROOM 1C,Maintenance|Management
+PDU-1F-3-1,,,SG3A0600KH,Test description.,PDU,,,ELECTRICAL ROOM 1C,Maintenance|Management
+PDU-1F-2-2,,,SG3A0600KH,Test description.,PDU,,,ELECTRICAL ROOM 1C,Maintenance|Management
+PDU-1F-1-1,,,SG3A0600KH,Test description.,PDU,,,ELECTRICAL ROOM 1C,Maintenance|Management
+PDU-1E-2-2,,,SG3A0600KH,Test description.,PDU,,,ELECTRICAL ROOM 1C,Maintenance|Management
+PDU-1E-2-1,,,SG3A0600KH,Test description.,PDU,,,ELECTRICAL ROOM 1C,Maintenance|Management
+PDU-1E-1-2,,,SG3A0600KH,Test description.,PDU,,,ELECTRICAL ROOM 1C,Maintenance|Management
+PDU-1E-1-1,,,SG3A0600KH,Test description.,PDU,,,ELECTRICAL ROOM 1C,Maintenance|Management
+PDU-1H-3-2,,,SG3A0600KH,Test description.,PDU,,,ELECTRICAL ROOM 1D,Maintenance|Management
+PDU-1H-3-1,,,SG3A0600KH,Test description.,PDU,,,ELECTRICAL ROOM 1D,Maintenance|Management
+PDU-1H-2-2,,,SG3A0600KH,Test description.,PDU,,,ELECTRICAL ROOM 1D,Maintenance|Management
+PDU-1H-1-2,,,SG3A0600KH,Test description.,PDU,,,ELECTRICAL ROOM 1D,Maintenance|Management
+PDU-1H-1-1,,,SG3A0600KH,Test description.,PDU,,,ELECTRICAL ROOM 1D,Maintenance|Management
+PDU-1G-3-2,,,SG3A0600KH,Test description.,PDU,,,ELECTRICAL ROOM 1D,Maintenance|Management
+PDU-1G-3-1,,,SG3A0600KH,Test description.,PDU,,,ELECTRICAL ROOM 1D,Maintenance|Management
+PDU-1G-2-2,,,SG3A0600KH,Test description.,PDU,,,ELECTRICAL ROOM 1D,Maintenance|Management
+PDU-1G-2-1,,,SG3A0600KH,Test description.,PDU,,,ELECTRICAL ROOM 1D,Maintenance|Management
+PDU-1G-1-2,,,SG3A0600KH,Test description.,PDU,,,ELECTRICAL ROOM 1D,Maintenance|Management
+PDU-1G-1-1,,,SG3A0600KH,Test description.,PDU,,,ELECTRICAL ROOM 1D,Maintenance|Management
+PCWP 1,,,Series 4300-6x6x10-2p-125hp-PD,Test description.,PCWP,,,PUMP ROOM 2,Maintenance|Management
+PCWP 2,,,Series 4300-6x6x10-2p-125hp-PD,Test description.,PCWP,,,PUMP ROOM 2,Maintenance|Management
+PCWP 3,,,Series 4300-6x6x10-2p-125hp-PD,Test description.,PCWP,,,PUMP ROOM 2,Maintenance|Management
+PCWP 4,,,Series 4300-6x6x10-2p-125hp-PD,Test description.,PCWP,,,PUMP ROOM 2,Maintenance|Management
+PCWP 5,,,Series 4300-6x6x10-2p-125hp-PD,Test description.,PCWP,,,PUMP ROOM 2,Maintenance|Management
+PCWP 6,,,Series 4300-6x6x10-2p-125hp-PD,Test description.,PCWP,,,PUMP ROOM 2,Maintenance|Management
+PCWP 7,,,Series 4300-6x6x10-2p-125hp-PD,Test description.,PCWP,,,PUMP ROOM 2,Maintenance|Management
+PCWP 8,,,Series 4300-6x6x10-2p-125hp-PD,Test description.,PCWP,,,PUMP ROOM 2,Maintenance|Management
+CHWP 1,,,Series 4300-5x5x7.5-2p-100hp-PD,Test description.,CHWP,,,PUMP ROOM 1,Maintenance|Management
+CHWP 2,,,Series 4300-5x5x7.5-2p-100hp-PD,Test description.,CHWP,,,PUMP ROOM 1,Maintenance|Management
+CHWP 3,,,Series 4300-5x5x7.5-2p-100hp-PD,Test description.,CHWP,,,PUMP ROOM 1,Maintenance|Management
+CHWP 4,,,Series 4300-5x5x7.5-2p-100hp-PD,Test description.,CHWP,,,PUMP ROOM 1,Maintenance|Management
+CHWP 5,,,Series 4300-5x5x7.5-2p-100hp-PD,Test description.,CHWP,,,PUMP ROOM 1,Maintenance|Management
+CHWP 6,,,Series 4300-5x5x7.5-2p-100hp-PD,Test description.,CHWP,,,PUMP ROOM 1,Maintenance|Management
+G-3B,,,C3000D6E,Test description.,GENERATOR,,,YARD,Maintenance|Management
+G-3E,,,C3000D6E,Test description.,GENERATOR,,,YARD,Maintenance|Management
+G-3F,,,C3000D6E,Test description.,GENERATOR,,,YARD,Maintenance|Management
+G-2D,,,C3000D6E,Test description.,GENERATOR,,,YARD,Maintenance|Management
+G-2C,,,C3000D6E,Test description.,GENERATOR,,,YARD,Maintenance|Management
+G-2B,,,C3000D6E,Test description.,GENERATOR,,,YARD,Maintenance|Management
+G-2A,,,C3000D6E,Test description.,GENERATOR,,,YARD,Maintenance|Management
+G-1D,,,C3000D6E,Test description.,GENERATOR,,,YARD,Maintenance|Management
+G-1C,,,C3000D6E,Test description.,GENERATOR,,,YARD,Maintenance|Management
+G-1B,,,C3000D6E,Test description.,GENERATOR,,,YARD,Maintenance|Management
+G-1A,,,C3000D6E,Test description.,GENERATOR,,,YARD,Maintenance|Management
+CH 1,,,ACM-AE510M,Test description.,CHILLER,,,YARD,Maintenance|Management
+CH 2,,,ACM-AE510M,Test description.,CHILLER,,,YARD,Maintenance|Management
+CH 3,,,ACM-AE510M,Test description.,CHILLER,,,YARD,Maintenance|Management
+CH 4,,,ACM-AE510M,Test description.,CHILLER,,,YARD,Maintenance|Management
+CH 5,,,ACM-AE510M,Test description.,CHILLER,,,YARD,Maintenance|Management
+CH 6,,,ACM-AE510M,Test description.,CHILLER,,,YARD,Maintenance|Management
+CH 7,,,ACM-AE510M,Test description.,CHILLER,,,YARD,Maintenance|Management
+CH 8,,,ACM-AE510M,Test description.,CHILLER,,,YARD,Maintenance|Management
+DC 1,,,VFCH8E-16D-6C6-04,Test description.,DRY COOLER,,,YARD,Maintenance|Management
+DC 2,,,VFCH8E-16D-6C6-05,Test description.,DRY COOLER,,,YARD,Maintenance|Management
+DC 3,,,VFCH8E-16D-6C6-06,Test description.,DRY COOLER,,,YARD,Maintenance|Management
+DC 4,,,VFCH8E-16D-6C6-07,Test description.,DRY COOLER,,,YARD,Maintenance|Management
+DC 5,,,VFCH8E-16D-6C6-08,Test description.,DRY COOLER,,,YARD,Maintenance|Management
+DC 6,,,VFCH8E-16D-6C6-09,Test description.,DRY COOLER,,,YARD,Maintenance|Management
+DC 7,,,VFCH8E-16D-6C6-10,Test description.,DRY COOLER,,,YARD,Maintenance|Management
+DC 8,,,VFCH8E-16D-6C6-11,Test description.,DRY COOLER,,,YARD,Maintenance|Management
+DC 9,,,VFCH8E-16D-6C6-12,Test description.,DRY COOLER,,,YARD,Maintenance|Management
+DC 10,,,VFCH8E-16D-6C6-13,Test description.,DRY COOLER,,,YARD,Maintenance|Management
