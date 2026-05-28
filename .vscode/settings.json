@@ -1,3 +1,21 @@
 {
-    "java.compile.nullAnalysis.mode": "automatic"
+  "java.compile.nullAnalysis.mode": "automatic",
+  "cSpell.words": [
+    "apexcharts",
+    "CMMS",
+    "daygrid",
+    "downloadjs",
+    "fullcalendar",
+    "grash",
+    "jackstenglein",
+    "languagedetector",
+    "notistack",
+    "progressbar",
+    "qrcode",
+    "recaptcha",
+    "sparklines",
+    "stompjs",
+    "stylis",
+    "timegrid"
+  ]
 }

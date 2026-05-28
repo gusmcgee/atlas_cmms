@@ -88,29 +88,31 @@ services:
       LDAP_SYNC_UPDATE: ${LDAP_SYNC_UPDATE:-false}
       LDAP_SYNC_DISABLE: ${LDAP_SYNC_DISABLE:-false}
       LDAP_SYNC_CRON: ${LDAP_SYNC_CRON}
-      
+
     ports:
       - "8080:8080"
   frontend:
-    image: intelloop/atlas-cmms-frontend
+    build:
+      context: ./frontend
+    # image: intelloop/atlas-cmms-frontend
     container_name: atlas-cmms-frontend
     environment:
-        API_URL: ${PUBLIC_API_URL}
-        GOOGLE_KEY: ${GOOGLE_KEY:- }
-        GOOGLE_TRACKING_ID: ${GOOGLE_TRACKING_ID:- }
-        INVITATION_VIA_EMAIL: ${INVITATION_VIA_EMAIL:-false}
-        CLOUD_VERSION: ${CLOUD_VERSION:-false}
-        NODE_ENV: production
-        ENABLE_SSO: ${ENABLE_SSO:-false}
-        OAUTH2_PROVIDER: ${OAUTH2_PROVIDER:- }
-        LOGO_PATHS: ${LOGO_PATHS:- }
-        CUSTOM_COLORS: ${CUSTOM_COLORS:- }
-        BRAND_CONFIG: ${BRAND_CONFIG:- }
-        DEMO_LINK: ${DEMO_LINK:- }
-        PADDLE_SECRET_TOKEN: ${PADDLE_SECRET_TOKEN:- }
-        PADDLE_ENVIRONMENT: ${PADDLE_ENVIRONMENT:-sandbox}
-        RECAPTCHA_SITE_KEY: ${RECAPTCHA_SITE_KEY:- }
-        LDAP_ENABLED: ${LDAP_ENABLED:-false}
+      API_URL: ${PUBLIC_API_URL}
+      GOOGLE_KEY: ${GOOGLE_KEY:- }
+      GOOGLE_TRACKING_ID: ${GOOGLE_TRACKING_ID:- }
+      INVITATION_VIA_EMAIL: ${INVITATION_VIA_EMAIL:-false}
+      CLOUD_VERSION: ${CLOUD_VERSION:-false}
+      NODE_ENV: production
+      ENABLE_SSO: ${ENABLE_SSO:-false}
+      OAUTH2_PROVIDER: ${OAUTH2_PROVIDER:- }
+      LOGO_PATHS: ${LOGO_PATHS:- }
+      CUSTOM_COLORS: ${CUSTOM_COLORS:- }
+      BRAND_CONFIG: ${BRAND_CONFIG:- }
+      DEMO_LINK: ${DEMO_LINK:- }
+      PADDLE_SECRET_TOKEN: ${PADDLE_SECRET_TOKEN:- }
+      PADDLE_ENVIRONMENT: ${PADDLE_ENVIRONMENT:-sandbox}
+      RECAPTCHA_SITE_KEY: ${RECAPTCHA_SITE_KEY:- }
+      LDAP_ENABLED: ${LDAP_ENABLED:-false}
     ports:
       - "3000:3000"
     depends_on:
