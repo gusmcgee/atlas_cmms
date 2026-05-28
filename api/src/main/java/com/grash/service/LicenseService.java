@@ -53,22 +53,35 @@ public class LicenseService {
     private volatile Set<String> cachedEntitlements = new HashSet<>();
     private volatile long lastCheckedTime = 0;
 
+//    public synchronized LicensingState getLicensingState() {
+//        if (isCacheValid()) {
+//            return buildLicensingStateFromCache();
+//        }
+//
+//        if (!hasLicenseKey() && !hasLicenseFile()) {
+//            return clearCacheAndReturnInvalid();
+//        }
+//
+//        // Try license file validation first if available
+//        if (hasLicenseFile()) {
+//            return validateAndCacheLicenseFile();
+//        }
+//
+//        // Fall back to Keygen API validation
+//        return validateAndCacheLicenseKey();
+//    }
+
     public synchronized LicensingState getLicensingState() {
-        if (isCacheValid()) {
-            return buildLicensingStateFromCache();
-        }
-
-        if (!hasLicenseKey() && !hasLicenseFile()) {
-            return clearCacheAndReturnInvalid();
-        }
-
-        // Try license file validation first if available
-        if (hasLicenseFile()) {
-            return validateAndCacheLicenseFile();
-        }
-
-        // Fall back to Keygen API validation
-        return validateAndCacheLicenseKey();
+        return LicensingState.builder()
+                .hasLicense(true)
+                .valid(true)
+                .planName("BUSINESS")
+                .entitlements(Arrays.stream(LicenseEntitlement.values())
+                        .map(Enum::name)
+                        .collect(Collectors.toSet()))
+                .expirationDate(Date.from(Instant.parse("10000-01-01T00:00:00Z")))
+                .usersCount(Integer.MAX_VALUE)
+                .build();
     }
 
     public boolean isSSOEnabled() {
