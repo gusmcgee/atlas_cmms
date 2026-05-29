@@ -79,7 +79,7 @@ public class LicenseService {
                 .entitlements(Arrays.stream(LicenseEntitlement.values())
                         .map(Enum::name)
                         .collect(Collectors.toSet()))
-                .expirationDate(Date.from(Instant.parse("10000-01-01T00:00:00Z")))
+                .expirationDate(Date.from(Instant.parse("4000-01-01T00:00:00Z")))
                 .usersCount(Integer.MAX_VALUE)
                 .build();
     }
