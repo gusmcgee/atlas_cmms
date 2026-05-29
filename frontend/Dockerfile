@@ -10,7 +10,7 @@ RUN npm run build
 
 FROM nginx:1.27.0-alpine
 COPY --from=build /usr/src/app/build /usr/share/nginx/html
-COPY --from=build /usr/src/app/.env.example /usr/share/nginx/html/.env
+COPY --from=build /usr/src/app/.env /usr/share/nginx/html/.env
 COPY --from=build /usr/src/app/nginx-custom.conf /etc/nginx/conf.d/default.conf
 
 RUN apk add --update nodejs
